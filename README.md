@@ -9,6 +9,8 @@
 ![diagram-export-9_7_2023, 6_42_27 PM](https://github.com/adityadhopade/Jenkins_HA_AWS_TF_Packer/assets/48392204/0f4e94d9-ded1-40e4-8946-56a35c382e83)
 
 
-## Project Documentation.
+# Project Documentation
 It is maintained in the blog below you can follow all the steps from here and implement to as your liking.
+
+[Link to the Blog](https://codemyworld.hashnode.dev/jenkins-ha-setup-on-aws-using-terraform-ansible-and-packer)
 
